@@ -4587,19 +4587,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe Mengue\\.nuget\\packages\\": {}
+    "C:\\Users\\Felipe Mengue\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\TodoAppComplete\\Todo.Domain\\Todo.Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\TodoAppBackend\\Todo.Domain\\Todo.Domain.csproj",
       "projectName": "Todo.Domain",
-      "projectPath": "C:\\dev\\TodoAppComplete\\Todo.Domain\\Todo.Domain.csproj",
+      "projectPath": "C:\\Projects\\TodoAppBackend\\Todo.Domain\\Todo.Domain.csproj",
       "packagesPath": "C:\\Users\\Felipe Mengue\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\TodoAppComplete\\Todo.Domain\\obj\\",
+      "outputPath": "C:\\Projects\\TodoAppBackend\\Todo.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Felipe Mengue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4607,6 +4612,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4646,7 +4652,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

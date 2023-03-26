@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/byG+SfFxQetDma+k14MvzIIfBdH5LO49EvtusL1mXahn3e7p82vxqNlKCiLTgreUyOaAi5PTJwdBmZtoxvUQ==",
+  "dgSpecHash": "MZEZCKyWz0ctTGv0ZLEiT4eZpPJ8CEbW+Zs8f4v8827IL3XVy9kBPIPCU7Mtwb5EWE1FGDhopS16jUKJpw9RJg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\TodoAppComplete\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+  "projectFilePath": "C:\\Projects\\TodoAppBackend\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe Mengue\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Felipe Mengue\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
